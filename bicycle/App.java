@@ -8,9 +8,9 @@ public class App {
 
         m_bike.applyBrake(50);
         normalBike.applySpeed(36);
-        
+
         System.out.println(normalBike.toString());
         System.out.println(m_bike.toString());
-
+        
     }
 }
